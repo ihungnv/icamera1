@@ -1,0 +1,65 @@
+{
+  "AppConfig": {
+    "APP_NAME": "iPhone 12 Camera",
+    "PKG_NAME": "com.selfie.phone11.camera.ios13.icamera",
+    "VER_CODE": 1,
+    "VER_NAME": "1.2.1",
+    "COMPULSORY": 0,
+    "ADS_TYPE": 1,
+    "ADS_ENABLE": 1,
+    "FIRST_SHOW": 3,
+    "NEXT_SHOW": 8,
+    "ABOUT1": "- Fix some small bug",
+    "ABOUT2": "- Optimize performance",
+    "ABOUT3": "- New Beautiful UI"
+  },
+  "NotiInfo": {
+    "STATUS": 1,
+    "HOUR": "8",
+    "MINUTE": "0",
+    "TITLE": "❤Have a nice day!!",
+    "CONTENT": "Let’s take selfies with beautiful features, filters, and stickers!!!"
+  },
+  "Admob": {
+    "APP_ID": "ca-app-pub-5026270687123701~2341036158",
+    "AD_UNIT": {
+      "FULL_START": "ca-app-pub-5026270687123701/3731412241",
+      "FULL_GALLERY": "ca-app-pub-5026270687123701/3447491154",
+      "FULL_SETTING": "ca-app-pub-5026270687123701/3539840551",
+      "FULL_GIFT": "ca-app-pub-5026270687123701/2226758886",
+      "FULL_CAMERA": "ca-app-pub-5026270687123701/8600595540",
+      "FULL_EXIT": "ca-app-pub-5026270687123701/8409023854",
+      "FULL_EDIT": "ca-app-pub-5026270687123701/6647234097",
+      "FULL_SHARE": "ca-app-pub-5026270687123701/3156697173",
+      "BANNER_GALLERY": "ca-app-pub-5026270687123701/9530533831",
+      "BANNER_SHOW": "ca-app-pub-5026270687123701/8440813444",
+      "BANNER_SETTING": "ca-app-pub-5026270687123701/1652043818",
+      "BANNER_EDIT": "ca-app-pub-5026270687123701/4086635467",
+      "NATIVE_MAIN": "ca-app-pub-5026270687123701/7127731774",
+      "NATIVE_SHARE": "ca-app-pub-5026270687123701/4501568432",
+      "NATIVE_EXIT": "ca-app-pub-5026270687123701/7493717104"
+    }
+  },
+  "AppMoreInfo": [
+    {
+      "APPMORE_NAME": "Camera for iPhone 12",
+      "PKG_NAME": "com.hd.camera.ios14.for.iphone",
+      "URL_ICON": "https://bit.ly/2OnfzVl",
+      "URL_COVER": "https://bit.ly/2OnfIIn",
+      "SHORT_DES": "Camera for iPhone 12 is PROFESSIONAL Selfie Camera with stunning camera effects",
+      "DOWNLOAD": "10K+",
+      "RATING": "4.6",
+      "SIZE": "58MB"
+    },
+    {
+      "APPMORE_NAME": "Camera for iPhone 12",
+      "PKG_NAME": "com.ultra.iphone12.camera.ios14.icamera",
+      "URL_ICON": "https://bit.ly/3gS5Wr3",
+      "URL_COVER": "https://bit.ly/31NNJVe",
+      "SHORT_DES": "iCamera is inspired by iOS14 Camera with many cool feature like iphone 12 camera",
+      "DOWNLOAD": "100K+",
+      "RATING": "4.8",
+      "SIZE": "30MB"
+    }
+  ]
+}
