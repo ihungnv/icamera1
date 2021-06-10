@@ -2,16 +2,16 @@
   "AppConfig": {
     "APP_NAME": "iPhone 12 Camera",
     "PKG_NAME": "com.selfie.phone11.camera.ios13.icamera",
-    "VER_CODE": 1,
-    "VER_NAME": "1.2.1",
+    "VER_CODE": 32,
+    "VER_NAME": "1.3.2",
     "COMPULSORY": 0,
     "ADS_TYPE": 1,
     "ADS_ENABLE": 1,
     "FIRST_SHOW": 3,
     "NEXT_SHOW": 8,
-    "ABOUT1": "- Fix some small bug",
-    "ABOUT2": "- Optimize performance",
-    "ABOUT3": "- New Beautiful UI"
+    "ABOUT1": "- New Beautiful UI",
+    "ABOUT2": "- Add Remove Ads Functions",
+    "ABOUT3": "- Optimize performance"
   },
   "NotiInfo": {
     "STATUS": 1,
@@ -42,22 +42,22 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "Camera for iPhone 12",
-      "PKG_NAME": "com.hd.camera.ios14.for.iphone",
-      "URL_ICON": "https://bit.ly/2OnfzVl",
-      "URL_COVER": "https://bit.ly/2OnfIIn",
-      "SHORT_DES": "Camera for iPhone 12 is PROFESSIONAL Selfie Camera with stunning camera effects",
-      "DOWNLOAD": "10K+",
-      "RATING": "4.6",
-      "SIZE": "58MB"
+      "APPMORE_NAME": "Mi Camera",
+      "PKG_NAME": "com.redmi8.mix.camera.for.xiaomi.mi10",
+      "URL_ICON": "https://bit.ly/3x8rtnd",
+      "URL_COVER": "https://bit.ly/3g8dtEa",
+      "SHORT_DES": "With Mi10 Camera you may get many fantastic camera features like in MI 10 camera",
+      "DOWNLOAD": "1M+",
+      "RATING": "4.5",
+      "SIZE": "37MB"
     },
     {
-      "APPMORE_NAME": "Camera for iPhone 12",
-      "PKG_NAME": "com.ultra.iphone12.camera.ios14.icamera",
-      "URL_ICON": "https://bit.ly/3gS5Wr3",
-      "URL_COVER": "https://bit.ly/31NNJVe",
-      "SHORT_DES": "iCamera is inspired by iOS14 Camera with many cool feature like iphone 12 camera",
-      "DOWNLOAD": "100K+",
+      "APPMORE_NAME": "S21 Camera",
+      "PKG_NAME": "com.ss.galaxy.s10.camera.s10camera",
+      "URL_ICON": "https://bit.ly/3zqRgZV",
+      "URL_COVER": "https://bit.ly/3ixkGiP",
+      "SHORT_DES": "S20 Camera - Camera for Galaxy S20 with amazing features, filters & AR stickers",
+      "DOWNLOAD": "500K+",
       "RATING": "4.8",
       "SIZE": "30MB"
     }
