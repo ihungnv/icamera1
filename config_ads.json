@@ -42,14 +42,14 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "Mi Camera",
-      "PKG_NAME": "com.redmi8.mix.camera.for.xiaomi.mi10",
-      "URL_ICON": "https://bit.ly/3x8rtnd",
-      "URL_COVER": "https://bit.ly/3g8dtEa",
-      "SHORT_DES": "With Mi10 Camera you may get many fantastic camera features like in MI 10 camera",
+      "APPMORE_NAME": "iPhone 13 Camera",
+      "PKG_NAME": "com.senju.ios.camera.iphone.icamera",
+      "URL_ICON": "https://bit.ly/38r6vpe",
+      "URL_COVER": "https://bit.ly/38wmWAy",
+      "SHORT_DES": "Camera for iPhone 13 – Beauty Selfie Camera with cool features, filter & sticker",
       "DOWNLOAD": "1M+",
-      "RATING": "4.5",
-      "SIZE": "37MB"
+      "RATING": "4.8",
+      "SIZE": "25MB"
     },
     {
       "APPMORE_NAME": "S21 Camera",
