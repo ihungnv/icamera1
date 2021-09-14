@@ -42,13 +42,13 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "iPhone 13 Camera",
-      "PKG_NAME": "com.senju.ios.camera.iphone.icamera",
-      "URL_ICON": "https://bit.ly/38r6vpe",
-      "URL_COVER": "https://bit.ly/38wmWAy",
-      "SHORT_DES": "Camera for iPhone 13 – Beauty Selfie Camera with cool features, filter & sticker",
+      "APPMORE_NAME": "Oppo Reno6 Camera",
+      "PKG_NAME": "com.thstudio.oppo.camera.selfie.reno",
+      "URL_ICON": "https://bit.ly/3AcBL7w",
+      "URL_COVER": "https://bit.ly/3tCtSWJ",
+      "SHORT_DES": "Camera for Oppo Reno 6 - Selfie Expert Camera with filters, stickers and effects",
       "DOWNLOAD": "1M+",
-      "RATING": "4.8",
+      "RATING": "4.6",
       "SIZE": "25MB"
     },
     {
