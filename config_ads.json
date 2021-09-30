@@ -42,14 +42,14 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "Oppo Reno6 Camera",
-      "PKG_NAME": "com.thstudio.oppo.camera.selfie.reno",
-      "URL_ICON": "https://bit.ly/3AcBL7w",
-      "URL_COVER": "https://bit.ly/3tCtSWJ",
-      "SHORT_DES": "Camera for Oppo Reno 6 - Selfie Expert Camera with filters, stickers and effects",
-      "DOWNLOAD": "1M+",
-      "RATING": "4.6",
-      "SIZE": "25MB"
+      "APPMORE_NAME": "Mi 11 Camera",
+      "PKG_NAME": "com.senju.mi.camera.selfie",
+      "URL_ICON": "https://bit.ly/3F2H10u",
+      "URL_COVER": "https://bit.ly/3zQw9iw",
+      "SHORT_DES": "Give you a Style camera inspired by Mi 11 Camera with enhanced features",
+      "DOWNLOAD": "100k",
+      "RATING": "4.8",
+      "SIZE": "35MB"
     },
     {
       "APPMORE_NAME": "S21 Camera",
