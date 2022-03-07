@@ -42,14 +42,14 @@
   },
   "AppMoreInfo": [
     {
-      "APPMORE_NAME": "Mi 11 Camera",
-      "PKG_NAME": "com.senju.mi.camera.selfie",
-      "URL_ICON": "https://bit.ly/3F2H10u",
-      "URL_COVER": "https://bit.ly/3zQw9iw",
-      "SHORT_DES": "Give you a Style camera inspired by Mi 11 Camera with enhanced features",
+      "APPMORE_NAME": "Time Warp Scan Filter",
+      "PKG_NAME": "com.timewarp.scan.bluelinefiltertiktok.free",
+      "URL_ICON": "https://play-lh.googleusercontent.com/WcMZBChTwCBFAprqI9mYVDzfywNMQDHjG4pY5MQGM-8RhReRNzU0L9Vf6Q2TCH3Q8LI=s180",
+      "URL_COVER": "https://play-lh.googleusercontent.com/C_zxwhgTULY03mNDNsdb7TTxb4x4enx2vsUPpDI6BmyQr5BKcbU4PCUQ86L0gnR-EvI",
+      "SHORT_DES": "Create unique photos and videos with the popular TikTok time warp scan filter",
       "DOWNLOAD": "100k",
       "RATING": "4.8",
-      "SIZE": "35MB"
+      "SIZE": "5MB"
     },
     {
       "APPMORE_NAME": "S21 Camera",
